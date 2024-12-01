@@ -1,4 +1,7 @@
 # credit-risk-modelling
+
+** copied from my earlier github account (which i lost access to - accessnash) when I worked on this project for a course on Udemy
+
 Credit risk modelling - Building a PD, LGD and EAD model using loans data 
 
 Part I: data cleaning from original data set, choosing variables for building PD model and estimation ; 
